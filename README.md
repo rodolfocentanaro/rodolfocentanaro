@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Rodolfo 👋
+
+I'm a software developer from Italy living in Genoa. 🔭 I'm specializing in C# and the .NET platform.
 
 <!--
 **rodolfocentanaro/rodolfocentanaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
