@@ -1,4 +1,4 @@
-## Hi there, I'm Rodolfo 👋
+### Hi there, I'm Rodolfo 👋
 
 I'm a software developer from Italy living in Genoa. 🔭 I'm specializing in C# and the .NET platform.
 
